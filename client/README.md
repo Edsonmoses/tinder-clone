@@ -9,6 +9,12 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
+
+1.  git clone https://github.com/Edsonmoses/tinder-clone.git
+2.  cd tinder-clone
+3.  npm install
+4.  npm run start:frontend
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
